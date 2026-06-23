@@ -7,7 +7,7 @@ export default function Header() {
       <div className="container">
         <a href="/" className="link">
           <FontAwesomeIcon icon={faTags} className="fa-icon" />
-          <span className="brand-title">Eazy Stickers</span>
+          <span className="brand-title">E-Stickers</span>
         </a>
         <nav className="nav">
           <ul>
