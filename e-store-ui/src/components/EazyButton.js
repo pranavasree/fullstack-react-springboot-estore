@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Button = styled.button`
+const EazyButton = styled.button`
   background-color: ${(props) => (props.$primary ? "#5b21b6" : "black")};
   color: white;
   padding: 10px 20px;
@@ -19,4 +19,4 @@ const Button = styled.button`
   }
 `;
 
-export default Button;
+export default EazyButton;
