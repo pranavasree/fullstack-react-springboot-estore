@@ -1,10 +1,10 @@
-package com.eazybytes.eazystore;
+package com.pranava.estore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EazystoreApplicationTests {
+class EstoreApplicationTests {
 
 	@Test
 	void contextLoads() {
